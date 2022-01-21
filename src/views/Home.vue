@@ -9,7 +9,7 @@
             type="text"
             v-model="keyword"
             class="searchBox"
-            placeholder="Location"
+            placeholder="Search for photo"
           />
         </form>
       </div>
